@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-09032015-127558";"";
+"REFERENCE";"RK73H1JTTD243F-RL";"";
+"rs_stock_number";"6355435";"";
+"TraceParts.PartTitle";"KOA 24kΩ 0402 (1005M) Thick Film SMD Resistor ±1% 0.1W - RK73H1JTTD2402F";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/6355435?cm_mmc=en-ds-_-mcad-_-traceparts-_-6355435'";"";
+"SUPPLIER";"KOA";"";
+"DESIGN";"KOA 24kΩ 0402 (1005M) Thick Film SMD Resistor ±1% 0.1W - RK73H1JTTD2402F";"";
+"TraceParts.InstanceId";"10-09032015-127558DRPZK1J8B7L8KQ9EV3D9DZBT2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.9";"";

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-06022020-051945";"";
+"REFERENCE";"1N4148W-13-F";"";
+"TraceParts.PartTitle";"Diode, Small Outline Diode - 1N4148W-13-F, 1N4148W-7-F";"";
+"TraceParts.InstanceId";"33-06022020-0519456Y6O6BFVII1EEXBC3NLN9U25Q";"";
+"DESIGN";"Diode, Small Outline Diode - 1N4148W-13-F";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Diodes Inc.";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"DIODES_INCORPORATED:33-06022020-051945";"";
