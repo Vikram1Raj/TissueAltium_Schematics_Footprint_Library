@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=MCU_Modules.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PSPJHOLY
-
-[Document2]
 DocumentPath=Main_Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,8 +66,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGNPHEFF
 
-[Document3]
-DocumentPath=CHERRY_MX_Switches.SchLib
+[Document2]
+DocumentPath=Schematics\CHERRY_MX_Switches.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -99,6 +82,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACMXDEOZ
+
+[Document3]
+DocumentPath=Schematics\MCU_Modules.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PSPJHOLY
 
 [OutputGroup1]
 Name=Netlist Outputs
