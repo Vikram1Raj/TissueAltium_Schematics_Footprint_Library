@@ -5,7 +5,7 @@ This is my personal repository for high-quality Altium Designer components. All 
 The library is split into functional categories to keep the design workspace clean.
 
 ## 📦 How to Use
-1. Clone this repository or download the latest `.IntLib` file from `Altium IntLib Files` 
+1. Clone this repository or download the latest `.IntLib` file from `Project Outputs for XIAO_Ecosystem` 
 2. In Altium Designer, go to the **Components Panel** and import library
 3. Install the `.IntLib` for a plug-and-play experience.
 
