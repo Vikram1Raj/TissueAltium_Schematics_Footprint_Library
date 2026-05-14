@@ -10,6 +10,7 @@ The library is split into functional categories to keep the design workspace cle
 3. Install the `.IntLib` for a plug-and-play experience.
 
 ## 🆕 Recent Updates
+* Added **Type C** Female Port
 * Added **RP2040** Raspberry Pi Chip
 * Added **Diodes** and **Resistor** files
 * Added **XIAO RP2040** module to `MCU_Modules.SchLib`.
