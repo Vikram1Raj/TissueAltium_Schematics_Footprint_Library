@@ -9,7 +9,8 @@ The library is split into functional categories to keep the design workspace cle
 2. In Altium Designer, go to the **Components Panel** and import library
 3. Install the `.IntLib` for a plug-and-play experience.
 
-## 🆕 Recent Updates
+## 🆕 Updates
+* Added **Castelled Pads**, **Voltage Regulator**, **Oscillator** 
 * Added **Type C** Female Port
 * Added **RP2040** Raspberry Pi Chip
 * Added **Diodes** and **Resistor** files
